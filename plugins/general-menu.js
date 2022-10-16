@@ -9,7 +9,7 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
   
 let tags = {}
 const defaultMenu = {
-  before: `Hello Janu Hru, ${user} 😹\n\n≻ Date: %date\n≻ Time: %time WIB\n≻ Runtime: %uptime\n%readmore`,
+  before: `Hey Janeman Hru, ${user} 😹\n\n≻ Date: %date\n≻ Time: %time WIB\n≻ Runtime: %uptime\n%readmore`,
   header: '╭┉┉┉≻ *“%category”* ≺┉┉┉',
   body: `┆ \t ➦ _%cmd%islimit%isPremium_ `,
   footer: '┆',
