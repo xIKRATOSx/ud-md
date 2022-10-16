@@ -7,7 +7,7 @@ function handler(m) {
 
 conn.sendMessage(m.chat, { contacts: { contacts: [kontak] }}, { quoted: m })
   */
-this.sendContact(m.chat, [['923165123719', 'Owner']], m)
+this.sendContact(m.chat, [['923470027813', 'Owner']], m)
 }
 handler.help = ['owner', 'creator']
 handler.tags = ['info']
