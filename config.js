@@ -4,19 +4,19 @@ import { watchFile, unwatchFile, readFileSync } from 'fs'
 
 global.owner = 
  [
-  ['+92 316 5123719', 'UmAr.yu'],
-  ['+49 173 96999993 '],
-  ['+92 316 5123719']
+  ['+92 347 0027813', 'Ahmad Ali'],
+  ['+27 73 995 8612'],
+  ['+92 319 1089077']
 ]
 
 
 
- // ['923165123719', '4917396999993', '923165123719']
+ // ['923470027813', '27739958612', '923191089077']
 
   // [number, dia creator/owner?, dia developer?]
 // Put your number here
-global.mods = [] // Want some help?
-global.prems = [] // Premium user has unlimited limit
+global.mods = ['923470027813', '27739958612', '923191089077'] // Want some help?
+global.prems = ['923470027813', '27739958612', '923191089077'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
@@ -41,23 +41,23 @@ global.APIKeys = { // APIKey Here
 }
 
 /* global.thumbnailUrl = [
-  'https://telegra.ph/file/81260a8b9e8cff26d2b48.jpg', 'https://telegra.ph/file/ac4928f0824a2a0492737.jpg',
-  'https://telegra.ph/file/6359b013bc7e52c3b346f.jpg', 'https://telegra.ph/file/d43c89a5d2da72875ec05.jpg',
-  'https://telegra.ph/file/7d6c0e35f9c8f52715541.jpg', 'https://telegra.ph/file/ef4b742d47e6a9115e2ff.jpg',
-  'https://telegra.ph/file/55e5af5f33fbd57104187.jpg', 'https://telegra.ph/file/af236598456b95884bd15.jpg',
-  'https://telegra.ph/file/de92ed4a729887ffc974c.jpg', 'https://telegra.ph/file/00ce42a193b1dbbf907d4.jpg'
+  'https://i.ibb.co/cw886gK/b69bd948e975.jpg', 'https://i.ibb.co/cw886gK/b69bd948e975.jpg',
+  'https://i.ibb.co/cw886gK/b69bd948e975.jpg', 'https://i.ibb.co/cw886gK/b69bd948e975.jpg',
+  'https://i.ibb.co/cw886gK/b69bd948e975.jpg', 'https://i.ibb.co/cw886gK/b69bd948e975.jpg',
+  'https://i.ibb.co/cw886gK/b69bd948e975.jpg', 'https://i.ibb.co/cw886gK/b69bd948e975.jpg',
+  'https://i.ibb.co/cw886gK/b69bd948e975.jpg', 'https://i.ibb.co/cw886gK/b69bd948e975.jpg'
 ]
 */
 
 // Sticker WM
-global.packname = `\t\t「 Cʀᴇᴀᴛᴇᴅ Bʏ Ʋᴍᴀʀ 」\n\t\t「 IG: dark-umar404」\n\t\t「 SC: Dark Devil Umar Bot Inc」\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n`
-global.author = ''
+global.packname = `\t\t「 Cʀᴇᴀᴛᴇᴅ Bʏ Ikratos 」\n\t\t「 IG: itx_ahmad.ali」\n\t\t「 SC: github.com/xIKRATOSx」\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n`
+global.author = 'Ahmad Ali'
 global.thumb = readFileSync('./me.png')
 global.thumb2 = readFileSync('./me2.jpeg')
 global.multiplier = 69 // The higher, The harder levelup
 
 //Text here
-global.me = 'Cʀᴇᴀᴛᴇᴅ Bʏ Ʋᴍᴀʀ - 2022'
+global.me = 'Cʀᴇᴀᴛᴇᴅ Bʏ Ikratos - 2022'
 global.str = '-------------'
 global.l = '「'
 global.r = '」'
